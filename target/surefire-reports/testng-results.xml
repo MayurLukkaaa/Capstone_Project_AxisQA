@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T07:18:32Z" name="Suite" finished-at="2023-06-20T07:24:01Z" duration-ms="328701">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T07:18:32Z" name="Chrome Test" finished-at="2023-06-20T07:23:35Z" duration-ms="303022">
+      <class name="Capstone_TestCases.TC6">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC6@3081f72c]" started-at="2023-06-20T07:23:16Z" name="setup2" finished-at="2023-06-20T07:23:23Z" duration-ms="7691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC6@3081f72c]" started-at="2023-06-20T07:23:23Z" name="DemoScenario" finished-at="2023-06-20T07:23:35Z" duration-ms="12069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC6 -->
+      <class name="Capstone_TestCases.TC4">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC4@4e423aa2]" started-at="2023-06-20T07:19:44Z" name="setup2" finished-at="2023-06-20T07:20:21Z" duration-ms="37136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC4@4e423aa2]" started-at="2023-06-20T07:20:21Z" name="DemoScenario" finished-at="2023-06-20T07:20:37Z" duration-ms="16482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC4 -->
+      <class name="Capstone_TestCases.TC5">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC5@7fbdb894]" started-at="2023-06-20T07:20:37Z" name="setup2" finished-at="2023-06-20T07:22:36Z" duration-ms="118452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC5@7fbdb894]" started-at="2023-06-20T07:22:36Z" name="DemoScenario" finished-at="2023-06-20T07:23:16Z" duration-ms="39993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC5 -->
+      <class name="Capstone_TestCases.TC2">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC2@2d6c53fc]" started-at="2023-06-20T07:19:03Z" name="setup2" finished-at="2023-06-20T07:19:16Z" duration-ms="12970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC2@2d6c53fc]" started-at="2023-06-20T07:19:16Z" name="DemoScenario" finished-at="2023-06-20T07:19:27Z" duration-ms="11049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC2 -->
+      <class name="Capstone_TestCases.TC3">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC3@25f4878b]" started-at="2023-06-20T07:19:27Z" name="setup2" finished-at="2023-06-20T07:19:39Z" duration-ms="12234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC3@25f4878b]" started-at="2023-06-20T07:19:39Z" name="DemoScenario" finished-at="2023-06-20T07:19:44Z" duration-ms="4205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC3 -->
+      <class name="Capstone_TestCases.TC1">
+        <test-method is-config="true" signature="setup1(java.lang.String)[pri:0, instance:Capstone_TestCases.TC1@d278d2b]" started-at="2023-06-20T07:18:32Z" name="setup1" finished-at="2023-06-20T07:18:39Z" duration-ms="6990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5555]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC1@d278d2b]" started-at="2023-06-20T07:18:39Z" name="DemoScenario" finished-at="2023-06-20T07:19:03Z" duration-ms="23726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC1 -->
+    </test> <!-- Chrome Test -->
+    <test started-at="2023-06-20T07:18:32Z" name="Microsoft Edge Test" finished-at="2023-06-20T07:24:01Z" duration-ms="328701">
+      <class name="Capstone_TestCases.TC6">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC6@f107c50]" started-at="2023-06-20T07:23:44Z" name="setup2" finished-at="2023-06-20T07:23:52Z" duration-ms="8804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC6@f107c50]" started-at="2023-06-20T07:23:52Z" name="DemoScenario" finished-at="2023-06-20T07:24:01Z" duration-ms="8743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC6 -->
+      <class name="Capstone_TestCases.TC4">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC4@6c2ed0cd]" started-at="2023-06-20T07:20:13Z" name="setup2" finished-at="2023-06-20T07:22:36Z" duration-ms="143027" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC4@6c2ed0cd]" started-at="2023-06-20T07:22:36Z" name="DemoScenario" finished-at="2023-06-20T07:22:57Z" duration-ms="20353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC4 -->
+      <class name="Capstone_TestCases.TC5">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC5@7d9e8ef7]" started-at="2023-06-20T07:22:57Z" name="setup2" finished-at="2023-06-20T07:23:09Z" duration-ms="12772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC5@7d9e8ef7]" started-at="2023-06-20T07:23:09Z" name="DemoScenario" finished-at="2023-06-20T07:23:44Z" duration-ms="34007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC5 -->
+      <class name="Capstone_TestCases.TC2">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC2@73302995]" started-at="2023-06-20T07:19:11Z" name="setup2" finished-at="2023-06-20T07:19:21Z" duration-ms="9840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC2@73302995]" started-at="2023-06-20T07:19:21Z" name="DemoScenario" finished-at="2023-06-20T07:19:35Z" duration-ms="13667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC2 -->
+      <class name="Capstone_TestCases.TC3">
+        <test-method is-config="true" signature="setup2(java.lang.String)[pri:0, instance:Capstone_TestCases.TC3@1838ccb8]" started-at="2023-06-20T07:19:35Z" name="setup2" finished-at="2023-06-20T07:20:08Z" duration-ms="33698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC3@1838ccb8]" started-at="2023-06-20T07:20:08Z" name="DemoScenario" finished-at="2023-06-20T07:20:13Z" duration-ms="4940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC3 -->
+      <class name="Capstone_TestCases.TC1">
+        <test-method is-config="true" signature="setup1(java.lang.String)[pri:0, instance:Capstone_TestCases.TC1@2d778add]" started-at="2023-06-20T07:18:32Z" name="setup1" finished-at="2023-06-20T07:18:40Z" duration-ms="7827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6666]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="DemoScenario()[pri:0, instance:Capstone_TestCases.TC1@2d778add]" started-at="2023-06-20T07:18:40Z" name="DemoScenario" finished-at="2023-06-20T07:19:11Z" duration-ms="31008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoScenario -->
+      </class> <!-- Capstone_TestCases.TC1 -->
+    </test> <!-- Microsoft Edge Test -->
+  </suite> <!-- Suite -->
+</testng-results>
